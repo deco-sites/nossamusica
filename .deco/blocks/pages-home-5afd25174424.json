@@ -1,42 +1,229 @@
 {
-    "name": "Home",
-    "path": "/",
-    "sections": [
-      {
+  "name": "Home",
+  "path": "/",
+  "sections": [
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
         "__resolveType": "Header"
-      },
-      {
-        "__resolveType": "site/sections/Hero.tsx",
-        "title": "<p>Click here to tweak this text however you want.</p>",
-        "cta": [],
-        "description": "This text is fully editable and ready for your personal touch. Just click here, head over to the section window, or dive straight into the code to make changes as you see fit. Whether it's about the content, formatting, font, or anything in between, editing is just a click away."
-      },
-      {
-        "__resolveType": "site/sections/Logos.tsx"
-      },
-      {
-        "__resolveType": "site/sections/ImageWithParagraph.tsx"
-      },
-      {
-        "__resolveType": "site/sections/ImageWithParagraph.tsx",
-        "placement": "right"
-      },
-      {
-        "__resolveType": "site/sections/BlogPosts.tsx"
-      },
-      {
-        "__resolveType": "site/sections/Testimonials.tsx",
-        "arrows": true
-      },
-      {
-        "__resolveType": "site/sections/Faq.tsx"
-      },
-      {
-        "__resolveType": "Footer"
       }
-    ],
-    "__resolveType": "website/pages/Page.tsx",
-    "seo": {
-      "__resolveType": "website/sections/Seo/SeoV2.tsx"
+    },
+    {
+      "__resolveType": "site/sections/Hero.tsx",
+      "title": "<p>De quem é a nossa música?</p>",
+      "cta": [],
+      "description": "Concentração de mercado em plataformas culturais no Brasil",
+      "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/nossamusica/5a2d0c16-409d-49b8-b18b-0460b45a7bd4/brasilsom.png"
+    },
+    {
+      "__resolveType": "site/sections/Logos.tsx",
+      "logos": [
+        {
+          "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/nossamusica/edc9d3c4-cd46-42ab-afc7-c5ee9b3b3271/Logo_-_LACNIC.svg",
+          "altText": "LACNIC"
+        },
+        {
+          "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/nossamusica/edc9d3c4-cd46-42ab-afc7-c5ee9b3b3271/Logo_-_LACNIC.svg",
+          "altText": "LACNIC"
+        },
+        {
+          "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/nossamusica/edc9d3c4-cd46-42ab-afc7-c5ee9b3b3271/Logo_-_LACNIC.svg",
+          "altText": "LACNIC"
+        },
+        {
+          "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/nossamusica/edc9d3c4-cd46-42ab-afc7-c5ee9b3b3271/Logo_-_LACNIC.svg",
+          "altText": "LACNIC"
+        },
+        {
+          "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/nossamusica/edc9d3c4-cd46-42ab-afc7-c5ee9b3b3271/Logo_-_LACNIC.svg"
+        }
+      ],
+      "title": "Apoio: Programa LACNIC Líderes"
+    },
+    {
+      "__resolveType": "site/sections/ImageWithParagraph.tsx",
+      "title": "\"Quem não gosta de música, bom sujeito não é\"",
+      "description": "Uma música brasileira muito famosa começa assim: \"quem não gosta de samba, bom sujeito não é\". Dorival Caymmi, o compositor, que perdoe minha ousadia, mas minha versão seria: \"quem não gosta de música, bom sujeito não é\". Em diferentes culturas e épocas, a música se faz presente na história da humanidade.\nO surgimento da internet, que mudou tantas coisas, não mudou o fato de que as pessoas continuam apreciando - e buscando - arte e cultura, incluindo música. Gilberto Gil, ex-ministro da Cultura e lenda viva da música brasileira, fala em uma linda entrevista que \"cultura é igual feijão com arroz. É necessidade básica\". A cultura não é algo extraordinário, descolado da realidade: ela é ordinária, faz parte e deve fazer parte do nosso dia a dia.  A música é um forte exemplo disso: já contou quantas pessoas você cruza na rua, diariamente, que estão com fones de ouvido, curtindo um som? Pessoalmente, não saio de casa sem os meus.",
+      "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/nossamusica/dc68fe8a-c14f-45f7-880f-45298fe981a7/Create-a-digitally-crafted-artwork-that-depicts-the-concept-of-music-streaming-in-Brazil.-Keep-the-design-clean-and-elegant-with-the-use-of-simple-lines-and-waves.-The-primary-color-scheme-should-be-orange-and-black.",
+      "tagline": "Introdução",
+      "disableSpacing": {
+        "bottom": false
+      }
+    },
+    {
+      "__resolveType": "site/sections/ImageWithParagraph.tsx",
+      "title": "Resumo Executivo",
+      "description": "O presente site é um dos resultados do projeto de pesquisa \"De quem é a nossa música? Concentração de mercado em plataformas culturais no Brasil\", conduzida no âmbito do Programa Líderes do LACNIC. O objetivo da pesquisa foi investigar o impacto da concentração de mercado nas plataformas de música, como Spotify e Deezer, no cenário cultural brasileiro, e apontar para políticas públicas podem ser implementadas para melhorá-lo.\n\nA metodologia utilizada combinou pesquisa bibliográfica, documental e entrevistas qualitativas semi-estruturadas com atores da indústria da música, bem como análise crítica dos dados e documentos disponíveis sobre o mercado de música no Brasil e no mundo. A pesquisa também documentou as negativas de entrevistas, por entender que esses resultados dizem sobre a (falta de) abertura do agente. Os principais resultados da pesquisa indicam que o modelo de negócio do streaming revitalizou a indústria fonográfica, que enfrentava uma crise devido à queda nas vendas de mídias físicas.\n\nO sucesso do streaming foi ainda maior em mercados do Sul Global, como Brasil e Colômbia, onde o download pago de faixas não se popularizou, se apresentando como uma alternativa mais eficaz do que a própria pirataria. No entanto, essa solução não se reverteu necessariamente em melhorias financeiras para os artistas: a falta de transparência continua a ser uma das principais barreiras para uma remuneração justa dos artistas. Outro ponto crítico identificado foi que artistas independentes enfrentam novas dificuldades para se destacar nesse ambiente digital, sendo pressionados pela \"economia da atenção\" e pela necessidade de relevância digital constante. Além disso, a ausência de regulação eficaz específica para essas plataformas no Brasil permite que essas empresas operem com pouca conformidade às leis nacionais de direitos autorais, prejudicando a proteção dos direitos dos artistas e a diversidade cultural no país.\n\nA discussão aponta para a urgência de uma regulação mais robusta das plataformas de streaming, com o objetivo de garantir maior transparência e fomentar a diversidade cultural, garantindo que o mercado de música não fique restrito apenas aos grandes sucessos comerciais, mas também dê espaço para manifestações culturais menos populares.",
+      "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/nossamusica/bf3e2b72-c838-419b-9ee7-7b11e34b18c7/Create-a-digitally-crafted-artwork-that-depicts-the-concept-of-music-streaming-in-Brazil.-Keep-the-design-clean-and-elegant-with-the-use-of-simple-lines-and-waves.-The-primary-color-scheme-should-be-orange-and-black.",
+      "tagline": "TLDR;",
+      "placement": "right"
+    },
+    {
+      "__resolveType": "site/sections/BlogPosts.tsx",
+      "title": "Pesquisa \"De quem é a nossa música\"",
+      "description": "Apoio: LACNIC",
+      "posts": [
+        {
+          "tags": [],
+          "title": "METODOLOGIA",
+          "author": "Alice de Perdigão Lana",
+          "excerpt": "Trajeto de pesquisa",
+          "date": "30/09/2024",
+          "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/nossamusica/4c4e5f14-197c-4c55-8999-9a7e07df39c7/Create-a-digitally-crafted-artwork-that-depicts-the-concept-of-music-streaming.-Keep-the-design-clean-and-elegant-with-the-use-of-simple-lines-and-waves.-The-primary-color-scheme-should-be-orange-and-black.",
+          "readingTime": "4 min"
+        },
+        {
+          "tags": [],
+          "title": "HISTÓRICO",
+          "author": "Alice de Perdigão Lana",
+          "excerpt": "Música e streaming",
+          "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/nossamusica/0d4e615b-c28b-4ed9-9ace-899a1bf98857/Create-a-digitally-crafted-artwork-that-depicts-the-concept-of-music-streaming.-Keep-the-design-clean-and-elegant-with-the-use-of-simple-lines-and-waves.-The-primary-color-scheme-should-be-orange-and-black.",
+          "date": "30/09/2024",
+          "readingTime": "9 min"
+        },
+        {
+          "tags": [],
+          "title": "STREAMING NO BRASIL",
+          "author": "Alice de Perdigão Lana",
+          "excerpt": "Boom do streaming na América Latina",
+          "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/nossamusica/9352dbb2-d064-448c-b619-e6e1a6afd99c/Create-a-digitally-crafted-artwork-that-depicts-the-concept-of-music-streaming.-Keep-the-design-clean-and-elegant-with-the-use-of-simple-lines-and-waves.-The-primary-color-scheme-should-be-orange-and-black.",
+          "date": "30/07/2024",
+          "readingTime": "14 min"
+        },
+        {
+          "tags": [],
+          "title": "É BOM OU RUIM?",
+          "author": "Alice de Perdigão Lana",
+          "excerpt": "Depende.",
+          "date": "30/09/2024",
+          "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/nossamusica/851be990-f857-4e4b-808d-8773a7807d09/Create-a-digitally-crafted-artwork-that-depicts-the-concept-of-music-streaming.-Keep-the-design-clean-and-elegant-with-the-use-of-simple-lines-and-waves.-The-primary-color-scheme-should-be-orange-and-black.",
+          "readingTime": "12 min"
+        },
+        {
+          "tags": [],
+          "title": "REGULAÇÃO DO STREAMING",
+          "author": "Alice de Perdigão Lana",
+          "excerpt": "Como regular?",
+          "date": "30/09/2024",
+          "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/nossamusica/00349a0f-bddd-477e-bd1c-656e03492f6a/Create-a-digitally-crafted-artwork-that-depicts-the-concept-of-music-streaming.-Keep-the-design-clean-and-elegant-with-the-use-of-simple-lines-and-waves.-The-primary-color-scheme-should-be-orange-and-black.",
+          "readingTime": "3 min"
+        },
+        {
+          "tags": [],
+          "title": "O QUE PRECISAR MUDAR? PARA ONDE VAMOS?",
+          "excerpt": "Futuro da música digital no Brasil",
+          "author": "Alice de Perdigão Lana",
+          "date": "30/09/2024",
+          "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/nossamusica/f9bb3009-6861-435a-9270-20d939736747/Create-a-digitally-crafted-artwork-that-depicts-the-concept-of-music-streaming-in-the-future.-Keep-the-design-clean-and-elegant-with-the-use-of-simple-lines-and-waves.-The-primary-color-scheme-should-be-orange-and-black.",
+          "readingTime": "5 min"
+        }
+      ]
+    },
+    {
+      "__resolveType": "site/sections/Testimonials.tsx",
+      "title": "Excertos das entrevistas",
+      "arrows": true,
+      "interval": 5,
+      "slides": [
+        {
+          "content": {
+            "description": "“Streaming torna-se mais eficaz que a própria pirataria” ",
+            "name": "Léo Morel",
+            "avatar": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/nossamusica/904314df-8d84-4345-a340-a05de9000f8f/leomorel.jpg"
+          }
+        },
+        {
+          "content": {
+            "description": "“Em países como Brasil e Colômbia, onde o formato do iTunes de comprar faixa por faixa não se desenvolveu, o streaming teve um boom muito grande” ",
+            "name": "Léo Morel",
+            "avatar": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/nossamusica/904314df-8d84-4345-a340-a05de9000f8f/leomorel.jpg"
+          }
+        },
+        {
+          "content": {
+            "description": "“Artista chega a lugares em que antes não chegava com o suporte físico.”",
+            "name": "Ilana Jardim",
+            "avatar": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/nossamusica/79afc025-29ad-434b-b470-f4f22469d199/ilanajardim.jpg"
+          }
+        },
+        {
+          "content": {
+            "description": "\u000b“Hoje há mais transparência do antes. Há prestação de contas que não tinha no passado, como relatórios detalhados do consumo de música” ",
+            "name": "Léo Morel",
+            "avatar": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/nossamusica/904314df-8d84-4345-a340-a05de9000f8f/leomorel.jpg"
+          }
+        },
+        {
+          "content": {
+            "description": "“Se o artista não está nas redes, ele não está em lugar algum. As vezes é injusto” ",
+            "name": "Ilana Jardim",
+            "avatar": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/nossamusica/79afc025-29ad-434b-b470-f4f22469d199/ilanajardim.jpg"
+          }
+        },
+        {
+          "content": {
+            "description": "\u000b“Há uma pressão gigante por resultados em números, num formato quase de mercado financeiro. Mas a música é subjetiva, envolve criatividade.” ",
+            "name": "Léo Morel",
+            "avatar": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/nossamusica/904314df-8d84-4345-a340-a05de9000f8f/leomorel.jpg"
+          }
+        },
+        {
+          "content": {
+            "description": "“Ok, diva pop é importante. Mas e as manifestações que não tem força mercadológica?”",
+            "name": "Léo Morel",
+            "avatar": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/nossamusica/904314df-8d84-4345-a340-a05de9000f8f/leomorel.jpg"
+          }
+        },
+        {
+          "content": {
+            "description": "“Plataformas têm responsabilidade sobre a homogeneização\u000bda cultura”",
+            "name": "Ilana Jardim",
+            "avatar": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/nossamusica/79afc025-29ad-434b-b470-f4f22469d199/ilanajardim.jpg"
+          }
+        },
+        {
+          "content": {
+            "description": "“As plataformas acabam pagando como elas acham que tem que pagar. Não tem que ser dessa forma. Temos nossa lei e os direitos tem que ser respeitados.”",
+            "name": "Ilana Jardim",
+            "avatar": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/nossamusica/79afc025-29ad-434b-b470-f4f22469d199/ilanajardim.jpg"
+          }
+        },
+        {
+          "content": {
+            "description": "“Espero que a gente consiga passar um projeto de lei que determine a remuneração de todos os atores da música.”",
+            "name": "Ilana Jardim",
+            "avatar": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/nossamusica/79afc025-29ad-434b-b470-f4f22469d199/ilanajardim.jpg"
+          }
+        },
+        {
+          "content": {
+            "description": "“Quero que as plataformas ajam com transparência, disponibilizem relatórios, pra gente fomentar a arte através da justa remuneração.”",
+            "name": "Ilana Jardim",
+            "avatar": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/nossamusica/79afc025-29ad-434b-b470-f4f22469d199/ilanajardim.jpg"
+          }
+        },
+        {
+          "content": {
+            "description": "“muitas inovações do mercado da música saíram de empresas de tecnologia, não de empresas do setor musical. Ficar sentado no seu catálogo achando que isso basta é perigoso. Fizeram no passado e deu ruim.“ ",
+            "name": "Léo Morel",
+            "avatar": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/nossamusica/904314df-8d84-4345-a340-a05de9000f8f/leomorel.jpg"
+          }
+        },
+        {
+          "content": {
+            "description": "“Música nunca vai deixar de ser consumida. O trabalho do artista não vai acabar. Ainda que tenha música feita por IA, o trabalho humano é muito considerado quando a gente fala em música. É um instrumento de conexão de povos, de artes. ”",
+            "name": "Ilana Jardim",
+            "avatar": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/nossamusica/79afc025-29ad-434b-b470-f4f22469d199/ilanajardim.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "__resolveType": "Footer"
     }
+  ],
+  "__resolveType": "website/pages/Page.tsx",
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
   }
+}

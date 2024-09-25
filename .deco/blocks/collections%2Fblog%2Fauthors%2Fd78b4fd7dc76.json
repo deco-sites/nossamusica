@@ -1,0 +1,8 @@
+{
+  "name": "collections/blog/authors/d78b4fd7dc76",
+  "__resolveType": "blog/loaders/Author.ts",
+  "author": {
+    "name": "Alice de Perdigão Lana",
+    "email": "alice@lana.net.br"
+  }
+}

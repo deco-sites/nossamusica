@@ -1,0 +1,20 @@
+{
+  "name": "collections/blog/posts/bc2ecdbc2080",
+  "__resolveType": "blog/loaders/Blogpost.ts",
+  "post": {
+    "authors": [
+      {
+        "name": "Alice de Perdigão Lana",
+        "email": "alice@lana.net.br",
+        "avatar": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/nossamusica/583a9868-7c2f-4185-a75f-1456d6ff7e88/Alice-de-Perdigao-Lana-Por-Bianca-Moreira-QUADRADO.png"
+      }
+    ],
+    "categories": [],
+    "extraProps": [],
+    "title": "REGULAÇÃO DO STREAMING",
+    "excerpt": "Como regular?",
+    "content": "<h3 style=\"text-align: justify\"><strong><span style=\"color: rgb(140, 114, 82); font-size: 12pt\">Como regular as plataformas de streaming?</span></strong></h3><p style=\"text-align: justify\"><span style=\"color: rgb(0, 0, 0); font-size: 11pt\">Ilana Jardim deixou claro a importância da regulação das plataformas de streaming, uma vez que elas atuam em território brasileiro. Ela apontou que todos os artistas - incluindo compositores, músicos executantes e outros - tem que ser remunerados conforme dita a lei de direitos autorais: \"</span><strong><u><span style=\"color: rgb(0, 0, 0); font-size: 11pt\">As plataformas acabam pagando como elas acham que tem que pagar. Não tem que ser dessa forma. Temos nossa lei e os direitos tem que ser respeitados</span></u></strong><span style=\"color: rgb(0, 0, 0); font-size: 11pt\">.\". A regulação viria nesse sentido, para organizar esses direitos e garantir a atuação dessas plataformas em território nacional.&nbsp; Ela destacou que \"as </span><strong><span style=\"color: rgb(0, 0, 0); font-size: 11pt\">plataformas de streaming nem sempre obedecem a legislação doméstica</span></strong><span style=\"color: rgb(0, 0, 0); font-size: 11pt\">. Por exemplo, aqui não pagam direitos conexos. \"</span></p><p style=\"text-align: justify\"><span style=\"color: rgb(0, 0, 0); font-size: 11pt\">Quando questionada sobre o papel do Estado na promoção da diversidade cultural, Ilana evitou emitir uma opinião direta sobre a imposição de cotas de conteúdo nacional nas plataformas de streaming, como já ocorre no setor audiovisual. No entanto, ela enfatizou a importância de um diálogo constante entre governo e plataformas para garantir que os direitos dos artistas brasileiros sejam respeitados e que a música nacional tenha espaço e visibilidade nas plataformas globais.</span></p><p style=\"text-align: justify\"><span style=\"color: rgb(0, 0, 0); font-size: 11pt\">Ilana também destacou que faz parte das boas práticas do Ministério conversar com as plataformas, para entender o modelo de negócio delas, e também com os artistas - não para agir como advogados destesm a parte mais vulnerável, mas para entender as dificuldades da classe e desenvolver um bom regramento.</span></p><p><span style=\"color: rgb(0, 0, 0); font-size: 11pt\">Quando questionado sobre a regulação das plataformas de streaming, Morel destacou que </span><strong><span style=\"color: rgb(0, 0, 0); font-size: 11pt\">já existe regulação, principalmente no que diz respeito às leis de direitos autorais</span></strong><span style=\"color: rgb(0, 0, 0); font-size: 11pt\">. Ele mencionou que, com a digitalização, existe muito mais prestação de contas e até transparência aos artistas do que no passado, como por exemplo a existência de relatórios detalhados de consumo de música. No entanto, ele criticou a falta de diálogo entre os diferentes atores do setor. Segundo ele, a desunião da classe artística facilita a vida dos intermediários, como as plataformas de streaming, que conseguem impor seus próprios interesses sem grandes negociações.</span></p>",
+    "date": "2024-09-30",
+    "slug": "regulacao"
+  }
+}

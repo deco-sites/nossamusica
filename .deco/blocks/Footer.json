@@ -1,1 +1,12 @@
-{"__resolveType":"site/sections/Footer.tsx","links":[],"bottomLinks":[],"social":[],"subscribe":{}}
+{
+  "__resolveType": "site/sections/Footer.tsx",
+  "links": [],
+  "bottomLinks": [],
+  "social": [],
+  "subscribe": {
+    "title": "Quer saber mais?",
+    "description": "Entre em contato!",
+    "instructions": "<p>Mentora: Alejandra Erramuspe. Mentorada: Alice de Perdigão Lana. </p>"
+  },
+  "copyright": "Creative Commons BY SA 4.0"
+}
