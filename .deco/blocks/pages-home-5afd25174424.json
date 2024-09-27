@@ -11,7 +11,14 @@
     {
       "__resolveType": "site/sections/Hero.tsx",
       "title": "<p>De quem é a nossa música?</p>",
-      "cta": [],
+      "cta": [
+        {
+          "id": "mentora",
+          "text": "Mentora: Alejandra Erramuspe. Mentorada: Alice de Perdigão Lana.",
+          "outline": true,
+          "href": "mentora"
+        }
+      ],
       "description": "Concentração de mercado em plataformas culturais no Brasil",
       "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/nossamusica/5a2d0c16-409d-49b8-b18b-0460b45a7bd4/brasilsom.png"
     },
@@ -36,6 +43,21 @@
         },
         {
           "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/nossamusica/edc9d3c4-cd46-42ab-afc7-c5ee9b3b3271/Logo_-_LACNIC.svg"
+        },
+        {
+          "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/nossamusica/edc9d3c4-cd46-42ab-afc7-c5ee9b3b3271/Logo_-_LACNIC.svg"
+        },
+        {
+          "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/nossamusica/edc9d3c4-cd46-42ab-afc7-c5ee9b3b3271/Logo_-_LACNIC.svg"
+        },
+        {
+          "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/nossamusica/edc9d3c4-cd46-42ab-afc7-c5ee9b3b3271/Logo_-_LACNIC.svg"
+        },
+        {
+          "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/nossamusica/edc9d3c4-cd46-42ab-afc7-c5ee9b3b3271/Logo_-_LACNIC.svg"
+        },
+        {
+          "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/nossamusica/edc9d3c4-cd46-42ab-afc7-c5ee9b3b3271/Logo_-_LACNIC.svg"
         }
       ],
       "title": "Apoio: Programa LACNIC Líderes"
@@ -48,20 +70,35 @@
       "tagline": "Introdução",
       "disableSpacing": {
         "bottom": false
-      }
+      },
+      "cta": [
+        {
+          "style": "Outline",
+          "text": "Saiba mais",
+          "href": "/",
+          "id": "mais"
+        }
+      ]
     },
     {
       "__resolveType": "site/sections/ImageWithParagraph.tsx",
       "title": "Resumo Executivo",
-      "description": "O presente site é um dos resultados do projeto de pesquisa \"De quem é a nossa música? Concentração de mercado em plataformas culturais no Brasil\", conduzida no âmbito do Programa Líderes do LACNIC. O objetivo da pesquisa foi investigar o impacto da concentração de mercado nas plataformas de música, como Spotify e Deezer, no cenário cultural brasileiro, e apontar para políticas públicas que podem ser implementadas para melhorá-lo. A metodologia utilizada combinou pesquisa bibliográfica, documental e entrevistas qualitativas semi-estruturadas com atores da indústria da música, bem como análise crítica dos dados e documentos disponíveis sobre o mercado de música no Brasil e no mundo. A pesquisa também documentou as negativas de entrevistas, por entender que esses resultados dizem sobre a (falta de) abertura do agente. Os principais resultados da pesquisa indicam que o modelo de negócio do streaming revitalizou a indústria fonográfica, que enfrentava uma crise devido à queda nas vendas de mídias físicas. O sucesso do streaming foi ainda maior em mercados do Sul Global, como Brasil, onde o download pago de faixas não se popularizou, se apresentando como uma alternativa mais eficaz do que a própria pirataria. No entanto, essa solução, que salvou a indústria fonográfica, não se reverteu necessariamente em melhorias financeiras para os artistas: a falta de transparência e equilíbrio continua a ser uma das principais barreiras para uma remuneração justa de todos os atores do mundo da música. Outro ponto crítico identificado foi que artistas enfrentam novas dificuldades pela necessidade de presença e relevância digital constante. A conclusão aponta para a urgência de uma regulação mais clara das plataformas de streaming, com o objetivo de garantir maior transparência e fomentar a diversidade cultural dos países, bem como de maior investimento em inovação e em manifestações artísticas não puramente mercadológicas.",
+      "description": "Este site é um dos resultados do projeto \"De quem é a nossa música? Concentração de mercado em plataformas culturais no Brasil\", realizado com o apoio do Programa LACNIC Líderes. A pesquisa investigou o impacto da concentração de mercado nas plataformas de música (como Spotify e Deezer) no cenário cultural brasileiro. A metodologia utilizada combinou pesquisa bibliográfica, documental e entrevistas qualitativas semi-estruturadas com atores da indústria da música, documentando também as negativas de entrevistas, por entender que esses resultados dizem sobre a (falta de) abertura do agente.\nOs principais resultados da indicam que o modelo de negócio do streaming revitalizou a indústria fonográfica, que enfrentava uma crise devido à queda nas vendas de mídias físicas. O sucesso do streaming foi ainda maior em mercados do Sul Global, como Brasil, onde o download pago de faixas não se popularizou. O streaming se apresentou como uma alternativa mais eficaz do que a própria pirataria e hoje é a principal fonte de renda da indústria da música, além de ser a principal forma de consumo de música no Brasil e no mundo.\nNo entanto, essa solução não se reverteu necessariamente em melhorias para o cenário cultural ou para os artistas. Foi identificado que o modelo de funcionamento das plataformas culturais, inserido na economia da atenção, demanda relevância digital constante dos artistas e incentiva a produção em série, voltada a gerar lucros rapidamente. Iso contribui para a homogeneização da cultura no país. Outros desafios identificados foram a falta de transparência das plataformas, o baixo espaço para inovação e a dificuldade de investimento em manifestações artísticas não puramente mercadológicas.\nA conclusão aponta para a necessidade de uma regulação mais clara, de forma a garantir que as plataformas cumpram as leis de direitos autorais do país, sejam mais transparentes e remunerem de forma justa todos os atores do mundo da música, visando fomentar a diversidade cultural dos países.",
       "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/nossamusica/bf3e2b72-c838-419b-9ee7-7b11e34b18c7/Create-a-digitally-crafted-artwork-that-depicts-the-concept-of-music-streaming-in-Brazil.-Keep-the-design-clean-and-elegant-with-the-use-of-simple-lines-and-waves.-The-primary-color-scheme-should-be-orange-and-black.",
       "tagline": "TLDR;",
-      "placement": "right"
+      "placement": "right",
+      "cta": [
+        {
+          "style": "Outline",
+          "id": "mais",
+          "href": "/",
+          "text": "Saiba mais"
+        }
+      ]
     },
     {
       "__resolveType": "site/sections/BlogPosts.tsx",
-      "title": "Pesquisa \"De quem é a nossa música\"",
-      "description": "Apoio: LACNIC",
+      "title": "De quem é a nossa música?",
       "posts": [
         {
           "tags": [],
@@ -94,7 +131,7 @@
           "tags": [],
           "title": "É BOM OU RUIM?",
           "author": "Alice de Perdigão Lana",
-          "excerpt": "Depende.",
+          "excerpt": "Depende",
           "date": "30/09/2024",
           "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/nossamusica/851be990-f857-4e4b-808d-8773a7807d09/Create-a-digitally-crafted-artwork-that-depicts-the-concept-of-music-streaming.-Keep-the-design-clean-and-elegant-with-the-use-of-simple-lines-and-waves.-The-primary-color-scheme-should-be-orange-and-black.",
           "readingTime": "12 min"
@@ -117,7 +154,8 @@
           "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/nossamusica/f9bb3009-6861-435a-9270-20d939736747/Create-a-digitally-crafted-artwork-that-depicts-the-concept-of-music-streaming-in-the-future.-Keep-the-design-clean-and-elegant-with-the-use-of-simple-lines-and-waves.-The-primary-color-scheme-should-be-orange-and-black.",
           "readingTime": "5 min"
         }
-      ]
+      ],
+      "description": "Confira os resultados da pesquisa!"
     },
     {
       "__resolveType": "site/sections/Testimonials.tsx",

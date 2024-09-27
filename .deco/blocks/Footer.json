@@ -6,7 +6,13 @@
   "subscribe": {
     "title": "Quer saber mais?",
     "description": "Entre em contato!",
-    "instructions": "<p>Mentora: Alejandra Erramuspe. Mentorada: Alice de Perdigão Lana. </p>"
+    "instructions": "<p>AVISO LEGAL: Os pontos de vista e opiniões expressos neste relatório são de responsabilidade da autora e não refletem necessariamente a política ou posição oficial do LACNIC.</p><p></p>"
   },
-  "copyright": "Creative Commons BY SA 4.0"
+  "copyright": "Creative Commons BY SA 4.0",
+  "madeWith": {
+    "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/nossamusica/e36734a4-b43a-4169-ae8e-e3f77b850d4e/CC-BY-SA_icon.svg.png"
+  },
+  "logo": {
+    "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/nossamusica/5a2d0c16-409d-49b8-b18b-0460b45a7bd4/brasilsom.png"
+  }
 }
